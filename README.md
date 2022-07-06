@@ -2,6 +2,8 @@
 
 Time: SEM2 Feb - May, 2022
 
+User: Yuxuan Wu
+
 Competition User Profile:  https://www.kaggle.com/yuxuanwucmu
 
 Readme: At the top of each Jupyter Notebook 
